@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Theodore Bennett
 - 👀 I’m interested in Software Developement/ Engineering
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Theodorebennett3@gmail.com, (876)281-8357
 
